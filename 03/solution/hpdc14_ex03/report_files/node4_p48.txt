@@ -1,0 +1,101 @@
+Execution time: 104.896120 seconds
+Verification: SUCCESS
+Execution time: 104.975017 seconds
+Verification: SUCCESS
+Execution time: 104.988857 seconds
+Verification: SUCCESS
+Execution time: 105.033900 seconds
+Verification: SUCCESS
+Execution time: 105.094988 seconds
+Verification: SUCCESS
+Execution time: 105.197542 seconds
+Verification: SUCCESS
+Execution time: 106.143677 seconds
+Verification: SUCCESS
+Execution time: 106.177899 seconds
+Verification: SUCCESS
+Execution time: 106.185884 seconds
+Verification: SUCCESS
+Execution time: 106.251604 seconds
+Verification: SUCCESS
+Execution time: 106.333107 seconds
+Verification: SUCCESS
+Execution time: 106.351732 seconds
+Verification: SUCCESS
+Execution time: 108.483576 seconds
+Verification: SUCCESS
+Execution time: 109.045833 seconds
+Verification: SUCCESS
+Execution time: 109.012375 seconds
+Verification: SUCCESS
+Execution time: 109.031256 seconds
+Verification: SUCCESS
+Execution time: 109.048945 seconds
+Verification: SUCCESS
+Execution time: 109.073301 seconds
+Verification: SUCCESS
+Execution time: 107.841372 seconds
+Verification: SUCCESS
+Execution time: 107.976221 seconds
+Verification: SUCCESS
+Execution time: 108.068210 seconds
+Verification: SUCCESS
+Execution time: 108.086285 seconds
+Verification: SUCCESS
+Execution time: 108.135478 seconds
+Verification: SUCCESS
+Execution time: 107.881644 seconds
+Verification: SUCCESS
+Execution time: 121.918873 seconds
+Verification: SUCCESS
+Execution time: 123.553930 seconds
+Verification: SUCCESS
+Execution time: 124.675451 seconds
+Verification: SUCCESS
+Execution time: 125.046585 seconds
+Verification: SUCCESS
+Execution time: 125.478859 seconds
+Verification: SUCCESS
+Execution time: 125.837604 seconds
+Verification: SUCCESS
+Execution time: 126.900955 seconds
+Verification: SUCCESS
+Execution time: 128.855626 seconds
+Verification: SUCCESS
+Execution time: 128.800778 seconds
+Verification: SUCCESS
+Execution time: 131.446865 seconds
+Verification: SUCCESS
+Execution time: 133.589733 seconds
+Verification: SUCCESS
+Execution time: 133.946179 seconds
+Verification: SUCCESS
+Execution time: 134.066292 seconds
+Verification: SUCCESS
+Execution time: 133.457334 seconds
+Verification: SUCCESS
+Execution time: 136.156265 seconds
+Verification: SUCCESS
+Execution time: 136.643706 seconds
+Verification: SUCCESS
+Execution time: 139.724742 seconds
+Verification: SUCCESS
+Execution time: 142.419350 seconds
+Verification: SUCCESS
+Execution time: 142.638229 seconds
+Verification: SUCCESS
+Execution time: 146.592172 seconds
+Verification: SUCCESS
+Execution time: 150.962327 seconds
+Verification: SUCCESS
+Execution time: 151.650616 seconds
+Verification: SUCCESS
+Execution time: 152.535871 seconds
+Verification: SUCCESS
+Execution time: 154.201171 seconds
+Verification: SUCCESS
+
+Below is a summary of your jobs efficency.
+Please use this to adjust Time, CPU and Memory allocations to ensure an efficently running cluster :)
+   JobID   State      Elapsed  TimeEff   CPUEff   MemEff 
+  210056  RUNNING    01:27:55   73.3%     ---      ---

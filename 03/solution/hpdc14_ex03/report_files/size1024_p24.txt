@@ -1,0 +1,53 @@
+Execution time: 124.250665 seconds
+Verification: SUCCESS
+Execution time: 124.376793 seconds
+Verification: SUCCESS
+Execution time: 124.810132 seconds
+Verification: SUCCESS
+Execution time: 126.085836 seconds
+Verification: SUCCESS
+Execution time: 126.337796 seconds
+Verification: SUCCESS
+Execution time: 126.429092 seconds
+Verification: SUCCESS
+Execution time: 126.527987 seconds
+Verification: SUCCESS
+Execution time: 127.710866 seconds
+Verification: SUCCESS
+Execution time: 131.834403 seconds
+Verification: SUCCESS
+Execution time: 132.119842 seconds
+Verification: SUCCESS
+Execution time: 132.390521 seconds
+Verification: SUCCESS
+Execution time: 132.275377 seconds
+Verification: SUCCESS
+Execution time: 132.992059 seconds
+Verification: SUCCESS
+Execution time: 134.999756 seconds
+Verification: SUCCESS
+Execution time: 136.566160 seconds
+Verification: SUCCESS
+Execution time: 136.713981 seconds
+Verification: SUCCESS
+Execution time: 137.836115 seconds
+Verification: SUCCESS
+Execution time: 139.515192 seconds
+Verification: SUCCESS
+Execution time: 138.908260 seconds
+Verification: SUCCESS
+Execution time: 138.968341 seconds
+Verification: SUCCESS
+Execution time: 139.841982 seconds
+Verification: SUCCESS
+Execution time: 140.262672 seconds
+Verification: SUCCESS
+Execution time: 141.245658 seconds
+Verification: SUCCESS
+Execution time: 145.644110 seconds
+Verification: SUCCESS
+
+Below is a summary of your jobs efficency.
+Please use this to adjust Time, CPU and Memory allocations to ensure an efficently running cluster :)
+   JobID   State      Elapsed  TimeEff   CPUEff   MemEff 
+  211385  RUNNING    00:47:26   39.5%     ---      ---

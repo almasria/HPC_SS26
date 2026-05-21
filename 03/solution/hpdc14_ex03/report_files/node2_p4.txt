@@ -1,0 +1,13 @@
+Execution time: 84.905499 seconds
+Verification: SUCCESS
+Execution time: 85.927561 seconds
+Verification: SUCCESS
+Execution time: 86.418925 seconds
+Verification: SUCCESS
+Execution time: 87.514144 seconds
+Verification: SUCCESS
+
+Below is a summary of your jobs efficency.
+Please use this to adjust Time, CPU and Memory allocations to ensure an efficently running cluster :)
+   JobID   State      Elapsed  TimeEff   CPUEff   MemEff 
+  210056  RUNNING    00:47:03   39.2%     ---      ---
