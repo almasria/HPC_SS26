@@ -1,0 +1,12 @@
+nnodes: 1
+ntasks: 8
+nodes: csg-octane08
+# Ring Allreduce process scaling | N=1000000 | reps=5 | launched procs=8
+# P           ring_avg[s]         mpi_avg[s]    check
+  P=2         0.002244949        0.002092724       OK
+  P=3         0.003040989        0.004593663       OK
+  P=4         0.003748656        0.003883465       OK
+  P=5         0.004249498        0.006331277       OK
+  P=6         0.004816833        0.007637313       OK
+  P=7         0.004904303        0.007657556       OK
+  P=8         0.004737333        0.005650336       OK

@@ -1,15 +1,4 @@
-/* HPDC SS 2026, Exercise 5.3 - Ring Allreduce, scaling the process count.
- *
- * Fixed problem size N = 1,000,000 floats. The process count is swept from
- * 2 to 8 by carving sub-communicators of size k out of MPI_COMM_WORLD, so a
- * SINGLE 8-process job produces the whole scaling column. Launch this binary
- * once per node layout (see 5_3_1node.sh / 5_3_8nodes.sh).
- *
- * Rank ordering note: MPI_Comm_split keeps ranks ordered by key=world-rank,
- * so world rank 0 is sub-rank 0 in every group and prints all rows. For the
- * "one node per process" layout (8 nodes, 1 task each, block placement),
- * world ranks 0..k-1 sit on k distinct nodes -> a genuine k-node measurement.
- */
+/* HPDC SS 2026, Exercise 5 - Ring Allreduce */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

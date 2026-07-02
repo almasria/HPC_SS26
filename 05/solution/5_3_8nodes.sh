@@ -23,4 +23,4 @@ echo "nnodes:" $SLURM_NNODES
 echo "ntasks:" $SLURM_NTASKS
 echo "nodes:" $SLURM_JOB_NODELIST
 
-mpirun bin/ring_allreduce
+mpirun bin/ring_allreduce_3
